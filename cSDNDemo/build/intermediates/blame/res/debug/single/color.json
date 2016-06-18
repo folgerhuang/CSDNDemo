@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/exploded-aar/CSDNDemo/viewPagerlibrary/unspecified/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/color/vpi__light_theme.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/exploded-aar/CSDNDemo/viewPagerlibrary/unspecified/res/color/vpi__light_theme.xml"
+    }
+]

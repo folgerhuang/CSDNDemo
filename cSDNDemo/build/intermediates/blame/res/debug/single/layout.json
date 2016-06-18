@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/exploded-aar/CSDNDemo/xListView/unspecified/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/layout/main_head.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/src/main/res/layout/main_head.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/exploded-aar/CSDNDemo/xListView/unspecified/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/layout/tab_item_fragment_main.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/src/main/res/layout/tab_item_fragment_main.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/layout/ptr_header.xml",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/exploded-aar/CSDNDemo/xListView/unspecified/res/layout/ptr_header.xml"
+    }
+]

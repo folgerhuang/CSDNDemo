@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/xListView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/xListView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/xListView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_flip_bottom.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/xListView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_flip_bottom.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/xListView/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/xlistview_arrow.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/xListView/build/intermediates/bundles/debug/res/drawable-hdpi-v4/xlistview_arrow.png"
+    }
+]

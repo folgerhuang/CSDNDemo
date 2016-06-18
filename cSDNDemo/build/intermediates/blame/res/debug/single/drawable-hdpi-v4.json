@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/init_pic.jpg",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/src/main/res/drawable-hdpi/init_pic.jpg"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/xlistview_arrow.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/exploded-aar/CSDNDemo/xListView/unspecified/res/drawable-hdpi-v4/xlistview_arrow.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/biz_navigation_tab_news_pressed.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/src/main/res/drawable-hdpi/biz_navigation_tab_news_pressed.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_action_bar_back_divider.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/src/main/res/drawable-hdpi/base_action_bar_back_divider.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_flip_bottom.png",
+        "source": "/Users/yushi/workspace/CSDNDemo/cSDNDemo/build/intermediates/exploded-aar/CSDNDemo/xListView/unspecified/res/drawable-hdpi-v4/default_ptr_flip_bottom.png"
+    }
+]
